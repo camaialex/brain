@@ -3,14 +3,9 @@ aliases:
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Cell Biology Atlas
-
-## Learning Objectives
-```query
-file: "_LO MASTER LIST" #cell-biology 
-```
 
 ## Cell Signaling
 - [[Cell Signaling Atlas]]

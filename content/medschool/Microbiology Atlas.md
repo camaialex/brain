@@ -3,14 +3,9 @@ aliases: Infectious Disease Atlas
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Microbiology and Infectious Disease
-
-## Learning Objectives
-```query
-file: "_LO MASTER LIST" #microbiology 
-```
 
 ## Bugs
 - [[bacteria]]

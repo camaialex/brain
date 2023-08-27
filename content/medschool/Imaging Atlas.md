@@ -3,14 +3,9 @@ aliases:
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Imaging Atlas
-
-## Learning Objectives
-```query
-file: "_LO MASTER LIST" #imaging 
-```
 
 ## Imaging Modalities
 - [[X-ray]]
