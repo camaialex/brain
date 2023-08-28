@@ -1,4 +1,11 @@
 ---
+authors: 
+institution: 
+version: 
+project: 
+tags: [MED, ref, protein, immunology]
+status: 
+version: 
 aliases: Ab, Antibody, Ig
 type: Protein
 ---
@@ -18,7 +25,7 @@ type: Protein
 - Variable regions determine antigen specificity
 ## Mechanisms of Immunity
 - Direct neutralization of pathogen
-- Opsonization (facilitate phagocytosis)
+- [[Opsonization]] (facilitate phagocytosis)
 - Activation of complement
 ## Subtypes
 - [[IgA]]
@@ -28,7 +35,6 @@ type: Protein
 - [[IgM]]
 
 ---
-Tags: #MED #ref #protein #immunology 
+Tags: 
 
-# Immunoglobulin
 
