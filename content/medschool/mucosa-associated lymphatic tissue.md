@@ -16,7 +16,6 @@ type: Concept
 - Underlying lymphocytes
 	- Epithelium: intraepithelial lymphocytes, many [[T cell]]s
 	- Lamina propria: [[B cell]]s, [[helper T cell|Th]] cells, [[plasma cell]]s, [[macrophage]]s
-- **M-cells**: Epithelial cells above which endocytose and release antigen into **basolateral pocket**
 ## Examples of MALT
 - Lymphoid aggregates (follicles) along mucosa
 	- Respiratory: [[bronchus-associated lymphatic tissue]]
