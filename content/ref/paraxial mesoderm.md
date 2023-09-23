@@ -17,8 +17,12 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 # Paraxial Mesoderm
 
 - Most medial mesoderm
+## Development
 - Gives rise to:
 	- [[axial skeleton]]
 	- Majority of [[skeletal muscle]]
+## Somites
+- After neurulation, the PM bunches into balls of tissue called [[somite]]s
+- Somites develop into the spinal cord and skeletal muscle
 
 ---

@@ -17,13 +17,17 @@ date modified: Monday, August 28th 2023, 4:06:26 pm
 # Neural Crest Cells
 
 - Derive from crests of **neural folds**
-- Give rise to:
-	- [[peripheral nervous system]]
-	- [[melanocytes]]
-	- facial [[bones]]
-	- [[adrenal medulla]]
+## Development
+- [[peripheral nervous system]]
+	- [[neuron]]s
 	- [[dorsal root ganglia]]
 	- [[paravertebral ganglia]]
 	- other ganglia
+	- Glia
+		- [[satellite cell]]
+		- [[Schwann cell]]
+- [[melanocytes]]
+- facial [[bones]]
+- [[adrenal medulla]]
 
 ---

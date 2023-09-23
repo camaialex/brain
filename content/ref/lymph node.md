@@ -2,7 +2,7 @@
 authors: 
 institution: 
 project: 
-tags: [ref, immune, lymphoid, heme_lymph]
+tags: [ref, immune, lymphoid, MED, heme_lymph]
 version: 2.0
 last_updated: 08/08/2023
 aliases: 
@@ -14,8 +14,7 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 
 # Lymph Node
 ## Function
-- Filters the blood
-	- Traps antigen for immune activation
+- Traps antigen _from local tissue_ for immune activation
 - Site of immune interactions and activation
 	- Lymphocytes enter via [[HEV]]s
 	- DCs enter via afferent lymphatic vessels

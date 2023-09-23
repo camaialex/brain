@@ -23,7 +23,7 @@ The complement system is a group of **circulating blood proteins** that galvaniz
 - [[opsonization]] ([[C3b]], [[C4b]])
 - [[anaphylatoxins]] ([[C3a]], [[C5a]])
 - [[membrane attack complex]] ([[C5b]], [[C6]], [[C7]], [[C8]], [[C9]])
-- [[immune complex clearance]] ([[C3b]]) 
+- [[immune complex]] complex ([[C3b]]) 
 ## Regulation
 - [[C1INH]] ([[C1qr2s2]])
 - [[DAF]] (both [[C3 convertase]]s)

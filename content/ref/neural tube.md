@@ -17,6 +17,11 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 # Neural Tube
 
 - Arises from **neural plate**
-- Gives rise to [[central nervous system]]
+## Development
+- [[central nervous system]] [[neuron]]s
+- Glia
+	- [[astrocyte]]
+	- [[ependymal cell]]
+	- [[oligodendrocyte]]
 
 ---
