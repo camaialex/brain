@@ -13,10 +13,13 @@ date modified: Monday, August 28th 2023, 7:41:13 pm
 This repo is basically medical school Wikipedia. It was designed with the idea of creating a dynamic knowledge base instead of a virtual folder full of notes that would end up getting deleted after school is over.
 
 Each note is connected to several others through a series of wiki-links to allow intersections between organ systems, biochemical pathways, and diseases. This way of taking notes more closely resembles the actual web of scientific knowledge that we work with every day in medicine.
+# CUSOM MS1 Students - Start Here!
+_This is organized by block based on the 2023-2024 curriculum._
+- [[Heme & Lymph]]
 # STEP 1 Subject Areas - Start Here!
 > [!Info]-
-> Each Atlas is like a hub for its corresponding subject matter. Start in an Atlas and begin walking through links, or use Graph View to see how each Atlas connects with different topics.
-> UPDATE 9/22/23 - some of these links are broken because the corresponding pages aren't created yet. If you run into a broken link, just back out of it and explore elsewhere.
+> Each Atlas is like a hub for its corresponding subject matter. Start in an Atlas and begin walking through links, or use Graph View to see how each Atlas connects with different topics.  
+> UPDATE 9/22/23 - some of these links are broken because the corresponding pages aren't created yet. If you run into a broken link, just back out of it and explore elsewhere. If you hover over a link and no preview pops up, the link is broken :(
 
 General Principles
 - [[Anatomy Atlas]]
@@ -40,10 +43,13 @@ Musculoskeletal, Skin & Subcutaneous Tissue (MSK)
 - [[Muscular Atlas]]
 
 Cardiovascular System
+- [[ref/PCV Atlas|PCV Atlas]]
 
 Respiratory & Renal/Urinary Systems
+- [[ref/Renal Atlas|Renal Atlas]]
 
 Gastrointestinal System
+- [[ref/GI Atlas|GI Atlas]]
 
 Reproductive & Endocrine Systems
 -  [[Embryology Atlas]]
@@ -53,11 +59,6 @@ Multisystem Processes & Disorders
 Biostatistics & Epidemiology/Population Health
 
 Social Sciences: Communication and Interpersonal Skills
-
-
-
-
-
 
 
 > [!How to Study]
