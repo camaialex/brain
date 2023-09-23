@@ -16,6 +16,7 @@ Each note is connected to several others through a series of wiki-links to allow
 # STEP 1 Subject Areas - Start Here!
 > [!Info]-
 > Each Atlas is like a hub for its corresponding subject matter. Start in an Atlas and begin walking through links, or use Graph View to see how each Atlas connects with different topics.
+> UPDATE 9/22/23 - some of these links are broken because the corresponding pages aren't created yet. If you run into a broken link, just back out of it and explore elsewhere.
 
 General Principles
 - [[Anatomy Atlas]]
