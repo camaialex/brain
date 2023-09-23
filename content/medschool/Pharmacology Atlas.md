@@ -5,17 +5,11 @@ aliases: Pharmacology
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Pharmacology
 
-## Learning Objectives
-```query
-file: "_LO MASTER LIST" #pharm
-```
-
-
-## Links
+## Theory
 - [[drug-receptor theory]] and drug classification
 - [[pharmacodynamics]]
 - [[pharmacokinetics]]

@@ -5,18 +5,10 @@ aliases:
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Hematologic and Lymphatic Systems
 
-## Learning Objectives
-```query
-FILE: "_LO MASTER LIST" #heme_lymph
-```
-
-```query
-FILE: "_LO MASTER LIST" #immunology 
-```
 ## Major Organs
 - [[PCV Atlas|Cardiovascular system]]
 	- [[arteries]]

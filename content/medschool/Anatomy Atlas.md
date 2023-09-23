@@ -5,14 +5,9 @@ aliases:
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Gross Human Anatomy
-
-## Learning Objectives
-```query
-file: "_LO MASTER LIST" #anatomy 
-```
 
 ## Major Body Systems
 - [[Heme_Lymph Atlas]]

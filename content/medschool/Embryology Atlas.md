@@ -5,14 +5,9 @@ aliases:
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Embryology
-
-## Learning Objectives
-```query
-file: "_LO MASTER LIST" #embryology 
-```
 
 ## Links
 - [[embryonic development]]

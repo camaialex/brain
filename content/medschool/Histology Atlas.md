@@ -5,14 +5,9 @@ aliases: Histology
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Histology
-
-## Learning Objectives
-```query
-file: "_LO MASTER LIST" #histo
-```
 
 ## Links
 - [[tissue]]

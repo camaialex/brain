@@ -18,7 +18,7 @@ status: Incomplete
 	- [[follicular dendritic cell]]s: guide movements of B-cells
 - **Paracortex**: [[T cell]]s, [[dendritic cell|DC]]s, [[macrophage]]s
 	- Follicular reticular system: network of fibers that guide cell movement
-- **Medulla**: [[Plasma cell]]s
+- **Medulla**: [[plasma cell]]s
 - Multiple afferents, one efferent
 	- Allows "percolation" within lymph node, maximizing time for immune interactions
 ## Diagram

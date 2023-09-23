@@ -3,21 +3,12 @@ aliases:
 type: Atlas
 ---
 
-(Back to [[Index]])
+(Back to [[index]])
 
 # Pathology Atlas
 
 ## Diseases
 - [[Cancer Atlas]]
-
-## List of all Pathologies
-```dataview
-TABLE file.name, file.tags
-from "medschool" and #pathology 
-sort file.name ASC
-sort file.tags
-```
-
 
 
 ---
