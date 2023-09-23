@@ -2,14 +2,16 @@
 authors: 
 institution: 
 project: 
-tags: [MED]
+tags:
+  - MED
+  - heme_lymph
 status: 
-version: 1.0
+version: 1
 last_updated: 07/30/2023
-aliases: 
+aliases: []
 type: Atlas
-date created: Saturday, August 26th 2023, 6:18:54 pm
-date modified: Sunday, August 27th 2023, 7:55:09 pm
+date created: 08/27/2023, 07:55
+date modified: 09/10/2023, 09:56
 ---
 
 (Back to [[index]])
@@ -29,7 +31,7 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 	- [[thymus]]
 	- [[spleen]]
 	- [[Peyer's patches]]
-	- [[lymph nodes]]
+	- [[lymph node]]
 	- [[tonsils_adenoids]]
 
 ## Functions of the Heme/Lymph System
@@ -38,8 +40,10 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 - Defend against pathogens
 	- [[immune system]]
 - Coagulation
+	- [[hemostasis]]
 - Constant self-renewal
 	- [[hematopoiesis]]
 
----
-Tags:
+## Pathologies
+- [[ref/Microbiology Atlas|infection]]
+- [[anemia]]

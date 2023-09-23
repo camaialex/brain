@@ -24,7 +24,7 @@ date modified: Sunday, August 27th 2023, 7:57:42 pm
 ## Components
 - [[spleen]]
 - [[lymphatic vessels]]
-- [[lymph nodes]]
+- [[lymph node]]
 - [[tonsils_adenoids]]
 - [[mucosa-associated lymphatic tissue]]
 

@@ -10,11 +10,13 @@ date created: Wednesday, August 16th 2023, 8:32:29 pm
 date modified: Sunday, August 27th 2023, 7:55:09 pm
 ---
 
-(Back to [[]])
+(Back to [[index]])
 
 # Immunology Atlas
 
 ## Functions
 - [[wound healing]]
+- [[immune system]]
+- [[hypersensitivity reactions]]
 
 ---

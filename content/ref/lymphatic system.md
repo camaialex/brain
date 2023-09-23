@@ -15,7 +15,7 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 # Lymphatic System
 ## Structure
 - [[lymphatic vessels]]
-- [[lymph nodes]]
+- [[lymph node]]
 - [[primary lymphatic organs]]
 - [[secondary lymphatic organs]]
 - [[spleen]]

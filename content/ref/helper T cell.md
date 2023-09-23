@@ -27,9 +27,11 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 	- *Signal 1:* MHC:Ag :: TCR
 	- *Signal 2:* Costimulatory protein :: CD28
 	- Activation triggers IL-2 autocrine signaling
-- Stimulates activation and proliferation of cognate [[cytotoxic T cell]]s and [[B cell]]s
+- Stimulates activation and proliferation of cognate [[cytotoxic T cell]]s
+- Stimulates activation and proliferation of [[B cell]]s using [[CD40L]]
 ## Pathology
 - Impaired adaptive immune response 
+- [[hyper IgM syndrome]] - defective CD40/40L removes the costimulation necessary for class-switching
 
 # References
 1. 

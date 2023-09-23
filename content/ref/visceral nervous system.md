@@ -2,7 +2,7 @@
 authors: 
 institution: 
 project: 
-tags: [MED, anatomy]
+tags: [MED, anatomy, neuro]
 status: 
 version: 1.0
 last_updated: 08/02/2023
@@ -12,7 +12,7 @@ date created: Wednesday, August 2nd 2023, 6:10:28 pm
 date modified: Sunday, August 27th 2023, 7:55:09 pm
 ---
 
-(Back to [[]])
+(Back to [[Nervous Atlas]])
 
 # Visceral Nervous System
 
@@ -21,8 +21,6 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 - Gland nerves
 - Involuntary muscles
 
-- Has two opposing divisions
-	- [[sympathetic nervous system]]
-	- [[parasympathetic nervous system]]
+- Composed of sensory and [[autonomic nervous system]] divisions
 
 ---

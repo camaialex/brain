@@ -22,6 +22,6 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 
 ## Structures
 - Waldeyer's ring
-- Structured similarly to [[lymph nodes]]
+- Structured similarly to [[lymph node]]
 
 ---

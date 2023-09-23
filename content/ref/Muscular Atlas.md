@@ -2,7 +2,7 @@
 authors: 
 institution: 
 project: 
-tags: [MED, anatomy]
+tags: [MED, anatomy, MSK]
 status: 
 aliases: 
 type: Atlas

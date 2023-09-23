@@ -1,28 +1,26 @@
 ---
+status: 
 authors: 
 institution: 
 project: 
-tags: [ref]
+tags: [MED, immunology]
 version: 1.0
 last_updated: 3/27/2023
 aliases: 
-type: Concept
-status: Incomplete
+type: Process
 date created: Monday, March 27th 2023, 11:58:52 pm
-date modified: Sunday, August 27th 2023, 7:55:09 pm
+date modified: Wednesday, August 30th 2023, 10:25:23 pm
 ---
 
 # Affinity Maturation
 
-In immunology, affinity maturation is the process by which [[follicular helper T-cell|Tfh]] cell-activated [[B cell]]s produce antibodies with increased affinity for antigen during the course of an immune response. 
-- With repeated exposures to the same antigen, a host will produce antibodies of successively greater affinities.
-- A secondary response can elicit antibodies with several fold greater affinity than in a primary response. 
+### Primary Focus
+1. Following activation, B cells proliferates and moves to the medulla of lymph node to engage in effector function
+### Affinity Maturation
+1. Some B cells, after activation, move to [[germinal center]]s in the cortex
+2. B cells expand and undergo [[somatic hypermutation]] to slightly modify BCRs
+3. B cells test their modified BCR with [[follicular dendritic cell]] and [[follicular helper T-cell|Tfh]] help
+4. Successful B cells that are non-self-reactive survive and leave the lymph node
+5. B cells undergo differentiation and [[class-switching]]
 
-Affinity maturation primarily occurs on membrane immunoglobulin of [[germinal center]] B cells and as a direct result of **somatic hypermutation (SHM)** and **clonal selection** by TFH cells. [1]
-
-## References
 ---
-1. [Wikipedia]()
-
----
-_Tags:_
