@@ -14,7 +14,7 @@ date modified: 09/20/2023, 09:19
 
 # Venous Thrombosis
 
-## Virchow's Triad
+## [[Virchow's Triad]]
 1. Venous stasis
 2. Endothelial injury
 3. Altered coagulability

@@ -28,8 +28,9 @@ Antigen-presenting cells
 - [[dendritic cell]]
 
 Red blood cells
-[[erythrocyte]]
+- [[erythrocyte]]
 
-
+Platelets
+- [[platelet]]
 
 ---

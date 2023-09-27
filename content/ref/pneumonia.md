@@ -14,9 +14,9 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 
 # Subject
 
-**Presentation**
-- Description
-
+## Presentation
+- Focal pneumonia - [[bacteria]]
+- Diffuse "ground glass" opacities - [[virus]]
 ## Etiology
 - 
 

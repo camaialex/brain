@@ -8,8 +8,8 @@ last_updated: 3/25/2023
 aliases: Tfh, T follicular helper
 type: Cell
 status: Incomplete
-date created: Thursday, August 24th 2023, 11:31:40 am
-date modified: Sunday, August 27th 2023, 7:55:09 pm
+date created: 09/23/2023, 03:12
+date modified: 09/24/2023, 08:23
 ---
 
 # T Follicular Helper Cell (TFH)
@@ -41,4 +41,4 @@ date modified: Sunday, August 27th 2023, 7:55:09 pm
 1. https://www.immunology.org/public-information/bitesized-immunology/cells/t-follicular-helper-cells
 
 ---
-_Tags:_ 
+

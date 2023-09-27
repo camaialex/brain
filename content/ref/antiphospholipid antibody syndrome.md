@@ -26,7 +26,7 @@ date modified:
 	- [[anti-beta-2 glycoprotein 1 antibodies]]
 ## Diagnosis
 - Increased PTT that does not correct with mixing
-- Prolongation of [[dilute Russell Viper Venom test]]
+- Prolongation of [[dilute Russell viper venom test]]
 ## Complications
 - 
 ## Treatment

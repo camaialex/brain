@@ -47,3 +47,4 @@ date modified: 09/10/2023, 09:56
 ## Pathologies
 - [[ref/Microbiology Atlas|infection]]
 - [[anemia]]
+- [[immunodeficiency]]

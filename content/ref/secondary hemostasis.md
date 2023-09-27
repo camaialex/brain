@@ -2,9 +2,12 @@
 authors: 
 institution: 
 project: 
-tags: [MED, heme_lymph]
+tags:
+  - MED
+  - heme_lymph
 status: 
-aliases: 
+aliases:
+  - coagulation
 type: Process
 date created: 09/21/2023, 07:57
 date modified: 09/21/2023, 07:57

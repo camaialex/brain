@@ -28,7 +28,7 @@ date modified:
 	- Severe: <1% function remaining
 	- Moderate: 1-5%
 	- Mild: 5-40%
-- **X-linked recessive inheritance**
+- **[[X-linked]] recessive inheritance**
 	- Females can express mild hemophilia as carriers through varied [[X lyonization]]
 ## Diagnosis
 - Significant family history of disease
@@ -43,7 +43,7 @@ date modified:
 	- Ineffective against severe hemophilia
 - Antifibrinolytic therapy
 
-For inhibitor development:
+For [[factor inhibitor]] development:
 - Recombinant FVIIa therapy
 - FEIBA for inhibitor development
 	- Factor Eight Inhibitor Bypassing Agent
