@@ -1,0 +1,515 @@
+---
+authors: 
+institution: 
+project: 
+tags: [heme_lymph]
+aliases: 
+type: 
+status: 
+date created: 09/23/2023, 03:12
+date modified: 09/23/2023, 08:48
+---
+
+## Week 1: [[Anemia]]
+### Pathophysiology
+#### Miscellaneous
+- Describe how assessment of the [[CBC|complete blood count]] for involvement of cell lines other than the red blood cell line aids in developing a differential diagnosis for [[anemia]]. 
+- Define [[pancytopenia]]. 
+	- List some of the major causes for pancytopenia. 
+	- Describe how examination of the [[bone marrow]] can help to distinguish these causes.
+- Provide a brief overview of the normal processes of [[erythropoiesis|red blood cell production]], function and turnover
+	- How perturbations of these processes can lead to different forms of anemia
+- List and describe some of the indications, risks and benefits of [[splenectomy]]. 
+	- Explain when prophylactic antibiotics are indicated post-splenectomy and the role of vaccination.
+- Describe the effects of over accumulation of iron in the body and risk factors for development of [[iron overload]].
+	- Compare and contrast the two main treatments for iron overload ([[therapeutic phlebotomy]] and [[iron chelation therapy]]), listing the pros and cons of each.
+	- Discuss approaches to avoiding iron overload in patients with chronic [[hemolytic anemia]].
+#### Macrocytic Anemia
+- Describe the consequences of [[cyanocobalamin|vitamin B12]] and/or [[folate]] deficiency on [[hematopoiesis]] and on other bodily systems
+	- Delineate the enzyme pathways affected. 
+	- Explain what is meant by the terms megaloblastic anemia and pernicious anemia. 
+	- Describe situations where B12 and/or folate deficiency can develop. Compare and contrast B12 vs folate deficiency in terms of risk factors, symptoms, and disease onset. Describe rational approaches to diagnosis and treatment of these deficiencies.
+#### Microcytic Anemia
+- List risk factors for development of iron deficiency/[[iron deficiency anemia]]. 
+	- Describe the consequences of iron deficiency on the hematopoietic system as well as other systems of the body. 
+	- List typical signs and symptoms. 
+	- Distinguish iron deficiency and iron deficiency anemia. 
+	- Discuss how iron deficiency is diagnosed and treated.
+- Briefly explain the pathophysiology of [[lead poisoning]] leading to anemia. 
+- Explain the molecular basis and pathophysiology for [[thalassemia]]. 
+	- Compare and contrast [[alpha thalassemia]], [[beta thalassemia]], and [[hemoglobin E disease]]. 
+	- Explain what [[hemoglobin H]] and [[Barts hemoglobin]] are. 
+	- Compare [[beta+ thalassemia]] and [[beta0 thalassemia]]. 
+	- Describe severity of phenotype based on the number of genes involved for both alpha and beta thalassemia.
+	- Distinguish thalassemia trait, thalassemia minor, thalassemia intermedia, and thalassemia major, explaining the clinical and therapeutic implications for each. 
+		- [[alpha thalassemia major]]/[[beta thalassemia major]]
+		- [[alpha thalassemia intermedia]]/[[beta thalassemia intermedia]]
+		- [[alpha thalassemia minor]]/[[beta thalassemia minor]]
+	- Explain how race/ethnicity can impact disease risk and severity for alpha thalassemia. Outline treatment options for thalassemia.
+- Explain the pathophysiology of [[sideroblastic anemia]] and describe what a [[sideroblast]] is.
+#### Hemolytic Anemia
+- Explain the molecular basis for [[sickle cell disease]] and the resulting pathophysiology.
+	- Explain why the gene is postulated to have arisen in the population.
+	- Explain what [[sickle cell trait]] is and how it manifests.
+	- List and describe the commonly seen acute and chronic consequences of the major variants of sickle cell disease ([[SS disease]], [[SC disease]],[[S-beta thalassemia disease]]).
+	- List therapies to treat patients with sickle cell disease, including [[folic acid]], [[penicillin]], [[exchange transfusion]], [[hydroxyurea]], [[bone marrow transplantation]], and [[gene therapy]], and explain the rationale for each. 
+		- List some of the potential drawbacks of these treatments.
+- Define and describe the process of [[hemolysis]]. Compare and contrast [[intravascular hemolysis]] and [[extravascular hemolysis]]
+	- Typical situations where each occurs
+	- Typical signs and symptoms
+	- Typical laboratory findings. 
+- Explain the relationship between [[parvovirus B19]] infection and [[aplastic crisis]] in patients with [[hemolytic anemia|hemolytic disease]].
+- Describe the major energy and antioxidant pathways in the RBC and explain how [[G6PD deficiency]] and [[pyruvate kinase deficiency]] affect these pathways, leading to [[hemolysis]]. 
+	- Describe the inheritance patterns and discuss the clinical and laboratory findings in patients with these syndromes.
+	- List some of the major triggers for hemolysis with G6PD deficiency.
+- Describe the pathophysiology and site of RBC destruction of immune-mediated hemolysis, comparing and contrasting [[warm autoimmune hemolytic anemia]] (IgG) and [[cold autoimmune hemolytic anemia]] (IgM and Donath-Landsteiner) antibody disease. 
+	- Discuss risk factors for development of autoimmune hemolytic anemia, as well as presenting signs and symptoms, approaches to treatment, and prognosis.
+- Describe the basic pathophysiology with [[microangiopathic hemolytic anemia]] and describe typical laboratory findings and the appearance of the [[peripheral blood smear]]. Explain the basic mechanisms leading to the hemolytic anemia seen with [[hemolytic uremic syndrome]] (HUS), [[thrombotic thrombocytopenic purpura]] (TTP), [[HELLP]] syndrome, [[Kasabach-Merritt syndrome]], and [[disseminated intravascular coagulation|DIC]].
+#### Multi-Category Anemia
+- Describe the pathophysiology of the [[anemia of chronic disease]]
+	- Role of inflammatory [[cytokine]]s, [[hepcidin]], and [[erythropoietin]]. 
+	- Describe situations where anemia of chronic disease is likely to develop
+	- Discuss approaches to treatment.
+- Explain how [[kidney disease]] and diseases of the thyroid ([[hyperthyroidism]], [[hypothyroidism]]) can lead to decreased production anemias. 
+- Explain the pathophysiology of red blood cell membrane disorders such as [[hereditary spherocytosis]] and [[hereditary elliptocytosis]]
+	- Identify the proteins involved and the mechanism leading to [[hemolysis]].
+	- Describe the clinical and laboratory findings for this group of disorders, typical management, and role of [[splenectomy]].
+### RBC Physiology
+- Describe the basic shape and composition of an [[erythrocyte]] and explain some reasons why that shape may have evolved.
+- Describe the network of proteins that forms the [[erythrocyte|RBC]] cytoskeleton and is essential for maintenance of RBC shape.
+- Describe some of the major receptors expressed on the surface of the red blood cell and how they relate to RBC function and blood type.
+	- [[ABO antigen]]
+	- [[Rh antigen]]
+	- [[minor blood group antigen]]
+- Describe the metabolic needs of the mature RBC and how they are met.
+	- [[Embden-Meyerhof pathway]]
+	- Explain what the [[pentose phosphate pathway]] is and its role in the maintenance of normal RBC biochemistry, including [[G6PD]], [[NADPH]], and [[glutathione]] in your explanation.
+	- Explain what the [[Rapoport-Leubering]] metabolic pathway is and the significance of its product, ([[2-3-BPG]]).
+### Hemoglobin
+- List and describe the typical [[hemoglobin]] variants seen during embryonic and fetal development, after birth, and with maturity into adulthood and explain how amounts of these different hemoglobins change during development.
+	- [[HbA]]
+	- [[HbA2]]
+	- [[HbF]]
+	- Briefly discuss the genetic and epigenetic mechanisms of globin gene switching.
+	- Describe the components that make up hemoglobin A1 and how they are synthesized. 
+	- Predict the consequences of errors in this pathway due to mutations in biosynthetic enzymes.
+- Describe how the body breaks [[hemoglobin]] down into its component parts and how those parts are processed to either be stored, reused or excreted.
+### Iron Metabolism
+- Describe the process of breakdown of [[heme]] into [[bilirubin]] and how bilirubin is processed and excreted by the [[liver]]. 
+	- Explain the relevance of this pathway to understanding the cause for someone's [[anemia]].
+- Describe [[iron metabolism]] and the [[iron cycle]], and describe where iron is distributed in the body. 
+	- Describe the route by which iron from the diet becomes incorporated into [[hemoglobin]] (including absorption, transport, delivery, storage, and loss of iron in humans). 
+	- List factors that increase or decrease iron absorption.
+	- Explain how the oxidation state of iron influences its absorption, transport, and function in binding to oxygen.
+- Describe the overall structure of [[hemoglobin]], indicating the site of oxygen binding. 
+	- Explain the concepts of [[allostery]] and [[positive cooperativity]] as they relate to hemoglobin function
+	- Explain what is meant by taut (T) and relaxed (R) configurations.
+	- Describe how structural differences in hemoglobin affect oxygen affinity and explain the physiologic effects of altered oxygen affinity.
+- Draw a typical [[oxygen dissociation curve]]. 
+	- Explain why it is sigmoidal in shape. 
+	- Define the p50.
+	- Explain the effects of pH, CO2, temperature, and [[2-3-BPG]], explaining the mechanism of how these factors influence [[hemoglobin]] structure and how that impacts the oxygen dissociation curve.
+- Explain in basic terms how a [[pulse oximeter]] works. Describe situations where a pulse oximeter reading may inaccurately reflect a patient's true oxygenation status.
+- Explain the pathophysiology of [[carbon monoxide poisoning]] and its treatment.
+- Describe what [[methemoglobinemia]] is, what causes it, how to diagnose it, and how to treat it.
+### Hematopoiesis
+- Draw a simple diagram of [[hematopoiesis]], including:
+	- [[hematopoietic stem cell]]
+	- Branch point where cells commit to [[lymphoid lineage]] vs [[myeloid lineage]]
+	- Further differentiation of the myeloid lineage into [[erythrocyte|RBC]], megakaryocytic, granulocytic, and monocytic cell lines
+	- Describe general characteristics of immature vs mature cells in these pathways.
+- List the major hematopoietic growth factors (HGFs). Match HGFs to their hematopoietic lineages.
+	- [[M-CSF]]
+	- [[G-CSF]]
+	- 
+- Identify locations of [[hematopoiesis]] throughout human development. 
+	- Explain what [[extramedullary hematopoiesis]] is and describe pathologic conditions when it can occur.
+- Describe the differentiation pathway from a hematopoietic stem cell into a mature RBC, noting how both the cytoplasm and nucleus evolve as the cell matures. 
+	- Explain what a [[reticulocyte]] is and how we use the [[reticulocyte count]] when evaluating a patient with anemia.
+- Describe the life cycle of the normal [[erythrocyte|RBC]]
+	- Indicate the length of time for development in the bone marrow, normal life span, and senescence.
+	- Explain how the body processes the components of the RBC at the end of its life span.
+- Describe the role of [[cyanocobalamin|vitamin B12]] and [[folate]] in [[hematopoiesis]].
+	- Identify the dietary sources of vitamin B12 and folate and describe their associated sites and mechanisms of absorption, means of transport, and duration and location of storage.
+- Describe the rationale and indications for the use of [[erythropoietin]] in the management of [[underproduction anemia]].
+### Case Studies
+- Define [[anemia]] and discuss the laboratory tests used to determine its existence in an individual, keeping in mind the influence of age and gender.
+	- Compare and contrast different forms of anemia in terms of cause, mechanism, clinical/lab findings, and symptoms.
+	- Draw a general classification scheme of anemias based on number of cell lines involved, [[reticulocyte count]], [[mean corpuscular volume]] (MCV) and evidence for hemolysis.
+- Describe various methods that laboratories may use to obtain the values reported when a [[CBC]] is performed.
+	- Define the components of peripheral blood that are measured when a CBC is requested.
+	- Define the values that are typically calculated when a CBC is requested. Recognize normal and abnormal CBC values.
+	- Explain when a [[WBC differential]] is performed, how a differential is performed, and what additional information it provides.
+	- Given the white blood cell differential and the total white blood cell count, calculate the absolute count of a particular white blood cell type.
+	- Describe how the CBC reference intervals are obtained and their limitations.
+- Identify normal RBC morphology and compare/contrast with the following:
+	- [[microcytosis]]
+	- [[macrocytosis]]
+	- [[hypochromia]]
+	- [[polychromasia]]
+	- Estimate the MCV based on RBC size compared with a [[lymphocyte]] nucleus. 
+	- Identify [[anisocytosis]].
+- Recognize and distinguish the following on a peripheral blood smear
+	- [[neutrophil]]
+	- [[eosinophil]]
+	- [[basophil]]
+	- [[monocyte]]
+	- [[lymphocyte]]
+	- [[platelet]]
+	- [[nucleated RBC]]
+- Recognize the following abnormal RBC morphologies and explain what causes them
+	- [[sickle cell]]s, 
+	- microcytic [[target cell]]s
+	- macrocytic target cells
+	- [[spherocyte]]s
+	- [[elliptocyte]]s
+	- [[ovalocyte]]s
+	- [[burr cell]]s
+	- [[schistocyte]]s.
+- Recognize the following RBC inclusions seen on H&E or with special stains: 
+	- [[Howell-Jolly body]]
+	- [[Plasmodium inclusion]] (thick smear)
+	- [[Heinz body]] ([[brilliant cresyl stain]])
+	- [[reticulocyte]] ([[supravital stain]])
+	- [[ringed sideroblast]]s ([[Prussian blue stain]]).
+- Identify the following in the [[bone marrow]]: 
+	- [[megakaryocyte]]s
+	- [[adipocyte]]s
+	- [[bone spicule]]s
+	- [[fibrosis]]
+	- Immature/blast cells
+	- metastatic [[cancer]] cells
+	- [[leukemia]]
+	- Estimate marrow cellularity and indicate if cellularity is normal, low, or high based on the patient's age.
+- Recognize and describe the findings in the peripheral blood ([[macroovalocyte]]s, [[hypersegmented neutrophil]]s) and bone marrow (megaloblastic changes, nuclear-cytoplasmic asynchrony) in a patient with [[B12 deficiency]] or [[folate deficiency]].
+- Utilize clues from a patient's history and physical exam to help classify a cause for their [[anemia]].
+- Utilize the [[CBC]] and [[reticulocyte count]] to assess and classify a patient's [[anemia]].
+	- Calculate the absolute reticulocyte count and [[reticulocyte index]] and discuss how they are useful in assessing a patient's marrow response to their anemia.
+- Analyze results of the complete blood count along with further testing ([[LDH]], [[direct bilirubin|conjugated bilirubin]], [[indirect bilirubin|unconjugated bilirubin]], [[haptoglobin]], urinalysis) to diagnosis a hemolytic process and distinguish [[intravascular hemolysis]] from [[extravascular hemolysis]].
+- Interpret results of [[iron studies]] ([[ferritin]], [[serum iron]], [[total iron binding capacity]], [[transferrin saturation]]), to distinguish [[iron deficiency anemia]], [[thalassemia]], and [[anemia of chronic disease]].
+- Interpret results of a [[hemoglobin electrophoresis]], in the context of the patient's history, [[CBC]], and [[iron studies]], to diagnose a patient with [[hemoglobinopathy]] or [[thalassemia]]. 
+	- Classify the specific type of hemoglobinopathy or thalassemia.
+- Interpret a newborn screen for diagnosis of [[hemoglobinopathy]] or [[thalassemia]].
+- Interpret the [[direct antiglobulin test]] (DAT or direct Coombs) and the [[indirect antiglobulin test]] (IAT or indirect Coombs) to diagnose a patient with [[autoimmune hemolytic anemia]] and classify the type of antibody involved.
+- Interpret an [[erythropoietin]] level in a patient in the context of their [[hemoglobin]]/[[hematocrit]] level to determine if it appropriate to their degree of anemia and to assist in determining the cause for the anemia.
+- Interpret results of a [[CBC]] and/or [[bone marrow aspirate]] to identify a patient with [[megaloblastic anemia]]. Utilize further testing ([[folate]], [[cyanocobalamin|vitamin B12]], [[homocysteine]], and [[methylmalonic acid]] levels) to distinguish vitamin B12 deficiency from folate deficiency.
+- Interpret an [[osmotic fragility test]] for diagnosis of [[hereditary spherocytosis]].
+- For persons of the A, B, AB and O blood groups, give the following [[ABO antigen]] data:
+	- Most and least common groups
+	- Red cell antigens
+	- Specificities of the ABO antibodies in their plasma
+	- Safe donors to that type
+	- Safe recipients of blood from that type
+	- Possible genotypes.
+	- Name the antibody class of most [[ABO antigen]] isohemagglutinins.
+- Define the crossmatch and explain why it is important. Explain how red cells are destroyed following a mismatched transfusion, and why this may be devastating to the recipient.
+- Explain the situation in which [[ABO hemolytic disease of the newborn]] can occur.
+- In [[hemolytic disease of the newborn]], explain:
+	- The consequences of severe [[hemolysis]] in the newborn
+	- The way in which the mother becomes sensitized
+	- The class of antibody to [[Rh(D)]] the mother makes
+	- The consequences of sensitization to subsequent fetuses
+	- The role of [[anti-Rh(D) immunoglobulin]].
+- Recognize [[minor blood group antigen]] systems outside of the ABO/RhD system and explain clinical situations where they may become relevant.
+- Recognize critical findings in the history and physical examination important in determining the cause of someone's [[anemia]].
+- Interpret findings on the [[CBC]], [[reticulocyte count]], and other relevant lab studies when evaluating a patient with [[anemia]].
+- Develop a differential diagnosis for a patient's [[anemia]] based on the history, physical exam, and laboratory studies. Recommend further studies to reach a definitive diagnosis.
+- Develop a basic treatment plan for a patient diagnosed with [[anemia]].
+## Week 2: Bleeding/[[Hemostasis]]
+### Coagulation Physiology
+- Provide a brief overview of the normal processes of [[primary hemostasis]] and [[secondary hemostasis]]
+	- How perturbations of these processes can lead to different bleeding and clotting disorders
+- Define [[hemostasis]]. 
+	- List and describe the different components involved in the hemostatic process, including 
+	- The [[secondary hemostasis|coagulation cascade]]
+	- The [[platelet]]
+	- The [[vascular endothelium]]
+	- The [[anticoagulation]] system
+	- Process of [[fibrinolysis]]
+- Compare and contrast the processes of [[primary hemostasis]] and [[secondary hemostasis]].
+- Describe the process of [[megakaryopoiesis]], including the role of [[thrombopoietin]].
+	- Describe how [[megakaryocyte]]s produce and release [[platelet]]s.
+	- Describe the life cycle of the platelet and how the body processes senescent platelets.
+- Draw a diagram of a [[platelet]] and its contents.
+- Describe the function of the following platelet surface receptors: [[GP1b]], [[GPIIb-IIIa]], ADP receptor ([[P2Y12]]), [[PAR1]], and [[TBXA2R]].
+- Describe the process of [[platelet adhesion]] to the subendothelium, including in your description the role of the subendothelial matrix, [[von Willebrand factor]], and [[GP1b]].
+- Describe [[platelet aggregation]], explaining the role of [[GPIIb-IIIa]] and [[fibrinogen]] in the process.
+- Describe the process of [[platelet activation]], including
+	- Effects on the platelet surface membrane
+	- Receptor activation
+	- Granule release
+		- [[alpha granule]]
+		- [[dense granule]]
+	- Shape change of the platelet
+	- Role of agonists including [[ADP]], [[epinephrine]], [[thrombin]], and [[thromboxane A2]].
+- Draw the [[secondary hemostasis|coagulation cascade]].
+	- Identify which coagulation factors are serine proteases and which are cofactors.
+- Differentiate the [[intrinsic coagulation pathway]] and [[extrinsic coagulation pathways]]
+	- Explain how they relate to the [[prothrombin time]] (PT) and the [[activated partial thromboplastin time]] (aPTT).
+- List and explain the role of the different components of the [[intrinsic tenase]], [[extrinsic tenase]], and [[prothrombinase]] complexes.
+- Explain the role of [[vitamin K]] in [[secondary hemostasis|coagulation]], and list the factors that are vitamin K dependent.
+- Describe what [[fibrinogen]] is and how it is converted to [[fibrin]]. Describe how fibrin molecules come together to form a clot and the role of [[FXIII]] in clot stabilization.
+- List the two main functions of [[von Willebrand factor]] in [[secondary hemostasis|coagulation]].
+- Explain why [[thrombin]] is considered the central enzyme in blood [[secondary hemostasis|coagulation]].
+- Explain the current concept of the process of [[secondary hemostasis|coagulation]] using the cell-based model
+	- Describe what occurs during the initiation, amplification, and propagation phases. 
+	- Describe how the cell-based model of coagulation explains clinical observations regarding bleeding risk (or lack of bleeding risk) with various factor deficiencies.
+### Anticoagulation Physiology
+- Describe the role of [[antithrombin]] in [[anticoagulation]] and its mechanism of action. Explain how heparin acts as a cofactor for antithrombin.
+- Explain how [[protein C]] is activated, including the role of [[thrombin]] and [[thrombomodulin]], and how the protein C-[[protein S]] system regulates [[secondary hemostasis|coagulation]].
+- Describe how [[tissue factor pathway inhibitor]] (TFPI) functions in regulating coagulation.
+- List and describe mechanisms utilized by the [[vascular endothelium]] to prevent clot formation in the resting state.
+	- Describe changes that occur to the endothelium with mechanical disruption or under pathologic conditions that lead to promotion of clot formation.
+### Fibrinolysis Physiology
+- Explain the role of [[plasmin]] in [[fibrinolysis]].
+	- Explain what [[fibrin]] degradation products, including [[D-dimer]], are and how they are formed.
+	- Explain how [[plasminogen]] is activated to plasmin.
+- Describe how [[tPA]] is stored and released in the [[endothelial cell]], its mechanism of action in [[fibrinolysis]], and how it can be used therapeutically.
+- Describe how [[plasminogen activation inhibitor 1]] (PAI-1), [[alpha2-antiplasmin]], and [[thrombin-activatable fibrinolysis inhibitor]] (TAFI) regulate fibrinolysis.
+### Bleeding Problems
+- Describe different types of bleeding and define the related terms (e.g., [[epistaxis]], [[menorrhagia]], [[petechiae]], [[purpura]], [[ecchymosis]]). 
+	- Describe how the type of bleeding seen relates to the mechanism of bleeding.
+- Describe the molecular defects seen with [[hemophilia A]], [[hemophilia B]], and [[hemophilia C]]
+	- How the defects alter coagulation, and the types of bleeding that result
+	- Describe approaches to treatment and potential complications.
+- Describe the molecular defect seen with [[von Willebrand disease]]
+	- Effect it has on coagulation
+	- Types of bleeding seen
+	- Distinguish types I, II, and III von Willebrand disease and contrast their clinical presentation and treatment approach.
+- Explain the role of [[vitamin K]] in coagulation. 
+	- Describe the effects on coagulation and types of bleeding seen with [[vitamin K deficiency]]. 
+	- Describe situations where patients are at risk for becoming vitamin K deficient. 
+	- Discuss treatment approaches. 
+	- Explain the mechanism of action for Coumadin/[[warfarin]] and how it relates to vitamin K.
+- Review the role of the platelet in coagulation and describe the consequences and types of bleeding seen with [[thrombocytopenia]].
+	- Correlate platelet count level with risk for bleeding.
+- Describe the molecular defect seen with [[von Willebrand disease]], [[Bernard-Soulier syndrome]], and [[Glanzmann's thrombasthenia]] and how they lead to platelet dysfunction.
+	- List major acquired causes for platelet dysfunction and describe their mechanism of action.
+### Clotting Problems
+- Describe the pathophysiology leading to [[disseminated intravascular coagulation ]](DIC), the effects on the coagulation system and types of bleeding seen.
+	- List some of the main precipitating factors.
+	- Describe an approach to treatment.
+- Explain the pathophysiology of immune thrombocytopenic purpura (ITP) and the types of bleeding seen. Describe the major treatment approaches for ITP and the mechanisms by which they increase the platelet count.
+- List the major acquired risk factors for development of [[thrombosis]], explain their mechanism in relationship to [[Virchow's triad]], and describe the types of clots that can be seen. Explain what the antiphospholipid antibody syndrome is.
+- Compare and contrast [[arterial thrombosis]] and [[venous thrombosis]].
+	- Describe the components of [[Virchow's Triad]] and how they contribute to our understanding of [[thrombosis]].
+- Define [[thrombosis]] and compare and contrast [[arterial thrombosis]] and [[venous thrombosis]] with regard to location, signs and symptoms, composition of the clot and risk factors for development.
+- Explain the effect of [[factor V Leiden]] on [[protein C]] function.
+- Define [[thrombosis]] and [[embolus]].
+- Use [[Virchow's Triad]] as a framework to consider potential contributing factors to development of [[thrombosis]] in a given patient.
+### Fibrinolysis Problems
+### Problems of Multiple Systems
+- Explain how liver disease can impact coagulation and the types of bleeding seen in the face of liver failure. Describe approaches to treatment of [[liver coagulopathy]] caused by liver failure.
+### Case Studies
+- Draw an algorithm utilizing a set of screening lab studies ([[CBC]], [[prothrombin time|PT]], and [[activated partial thromboplastin time|aPTT]]) to evaluate a patient with bleeding, narrow the differential diagnosis and develop a rational plan for further evaluation and treatment.
+- Explain how the [[prothrombin time|PT]], [[activated partial thromboplastin time|aPTT]], and [[thrombin time|TT]] are done and what they are measuring.
+	- Explain what the [[INR]] is, how it is derived, and why we use it
+	- Compare the reagents used for the different tests
+	- Describe some circumstances where results may be invalid or difficult to interpret.
+- Explain how specific factor assays are performed and what they are measuring. 
+	- Explain how the reference ranges are generated and how to interpret results for a given patient.
+	- Explain how the presence of a [[factor inhibitor]] can affect the results.
+- Explain what a [[1-1 mixing study]] is, how it is performed, and situations where it may be indicated.
+- Explain what a [[dilute Russel viper venom test]] (dRVVT) measures and why we use it.
+- Describe how we assess [[von Willebrand factor]] function using [[FVIII]] activity levels, VWF activity ([[ristocetin cofactor activity]]) levels, and VWF antigen levels. Recognize [[von Willebrand multimer]] gel assays and indicate how they can aid in diagnosis of subtypes of [[von Willebrand disease]].
+- Describe what [[D-dimer]] and fibrin degradation products are and what their presence signifies. 
+	- Discuss how the presence of FDPs can affect other clotting studies.
+- Describe methods used to assess platelet function, including the [[PFA-100]], platelet function assays, and the [[bleeding time]].
+- Describe what [[thromboelastography]] is, how it assesses global clotting function, including [[secondary hemostasis|coagulation]], platelet function, and [[fibrinolysis]], and situations where can be useful.
+- Utilize patient history, [[CBC]], and coagulation studies to determine the cause of bleeding in a given patient.
+- Utilize the [[prothrombin time|PT]], [[activated partial thromboplastin time|aPTT]], [[1-1 mixing study]], and specific factor assays to diagnose specific factor deficiencies.
+- Recognize how the presence of [[heparin]] or coumadin/[[warfarin]] will affect [[secondary hemostasis|coagulation]] screening tests and how these tests can be utilized to assess efficacy of treatment with these agents.
+- Interpret coagulation studies, including [[1:1 mixing study]] and [[dilute Russel viper venom test|dRVVT]], to identify the presence of antiphospholipid antibodies.
+- Utilize [[secondary hemostasis|coagulation]] studies, platelet function assays and specialized [[von Willebrand factor]] assays to diagnose [[von Willebrand disease]] and identify the subtype.
+- In the context of patient history and physical, interpret results of a [[CBC]], [[bone marrow aspirate]]/[[bone marrow biopsy]], and platelet function studies when assessing a patient for a [[platelet disorder]] or [[thrombocytopenia]].
+- Utilize coagulation screening tests along with [[D-dimer]] to screen for potential [[thrombosis]]. Discuss what further confirmatory testing can be considered.
+- Recognize when a patient may have an inherited thrombotic predisposition, select appropriate testing to consider, and interpret confirmatory testing results.
+- Describe the mechanism of action and clinical indications for the use of different formulations of [[heparin]]. 
+	- Compare and contrast [[unfractionated heparin]], [[low molecular weight heparin]], and [[fondaparinux]], considering differences in pharmacokinetics, side effect profiles, toxicities, drug monitoring, and reversal.
+- Describe the mechanism of action and indications for [[warfarin]]. 
+	- Describe how drug effect is monitored.
+- Discuss some of the potential adverse effects and toxicities (including teratogenic potential) of [[warfarin]], as well as potential drug interactions.
+	- Explain how to reverse bleeding in a situation of overdosage.
+- Describe the mechanism of action, uses, adverse effects, and potential reversal agents associated with use of [[direct oral anticoagulants]] (DOACs).
+- Describe the mechanism of action and uses of [[recombinant tissue plasminogen activator]] (t-PA). Describe potential risks, drawbacks, and contraindications.
+- Discuss the use of [[factor replacement therapy]], [[DDAVP]], [[factor mimetic therapy]], and [[antifibrinolytic]]s in patients with [[hemophilia]] and [[von Willebrand Disease]].
+	- Hemophilia A: factor VIII replacement, sometimes DDAVP, factor mimetics, antifibrinolytics
+	- Hemophilia B: factor IX replacement, antifibrinolytics
+	- von Willebrand Disease: Von Willebrand Factor Replacement, DDAVP, antifibrinolytics
+- List the major inherited defects that lead to increased risk for [[thrombosis]] and describe their molecular basis and the types of clots that form. 
+	- List and describe factors that impact the decision of whether or not a patient should receive [[anticoagulation therapy]].
+	- Counsel a patient on other ways they can decrease their risk for [[thrombosis]].
+- Develop a treatment strategy to manage a patient with a bleeding or clotting disorder.
+## Week 3: Lymphadenopathy/Infection
+### Immune Function
+### Immune Development and Immunodeficiency
+- Define [[immunodeficiency]].
+- Draw a diagram of the various steps involved in [[neutrophil]] function. Indicate where function is compromised for the following defects
+	- [[leukocyte adhesion defect 1]]
+	- [[chronic granulomatous disease]]
+	- [[hyper IgE syndrome]]
+	- [[myeloperoxidase deficiency]]
+- Explain the stages of [[neutrophil]] development and describe the inherited and acquired causes of [[neutropenia]].
+- Define [[primary immunodeficiency]] and [[secondary immunodeficiency]].
+	- Describe causes of secondary immunodeficiency.
+- Compare and contrast the types of microorganisms that cause infection in:
+	- [[neutropenia]] or neutrophil function defects
+	- [[T cell lymphopenia]]
+	- [[antibody defects]]
+	- [[complement deficiency]]
+- Review laboratory work up for suspected [[immunodeficiency]]
+	- [[CBC]]
+	- [[serum immunoglobulin]]s
+	- [[Lymphocyte]] subset phenotyping
+	- [[Complement system]] pathway analysis
+- Describe approaches to treatment for neutropenic disorders
+	- Explain the pros and cons of treatment with [[G-CSF]].
+- Review the newborn screening test for [[severe combined immunodeficiency]].
+- Draw an outline diagram of [[T cell]] and [[B cell]] development and indicate where development is abnormal in the following conditions, describing the abnormality:
+	- [[severe combined immunodeficiency]] (SCID)
+	- [[X-linked agammaglobulinemia]] (XLA)
+	- [[hyper IgM syndrome]]
+	- [[common variable immunodeficiency]] (CVID)
+	- [[DiGeorge syndrome]]
+- Describe the process of [[granulopoiesis]] and myeloid maturation, including the role of the major growth factors.
+	- List some of the effects that [[G-CSF]] has on [[neutrophil]] production, life span, and function.
+- Describe normal [[neutrophil]] kinetics in the [[bone marrow]], peripheral blood, and tissues.
+- List the types of [[neutrophil]] granules and describe their contents and function.
+- Review the normal functions of [[neutrophil]]s, including
+	- [[leukocyte rolling]]
+	- [[leukocyte adherence]]
+	- [[diapedesis]]
+	- [[chemotaxis]]
+	- ingestion
+	- [[leukocyte degranulation]]/microbicidal activity.
+- Describe the microbicidal [[respiratory burst]] ([[neutrophil]]) and the key factors involved.
+- Discuss laboratory tests used to determine immune deficiencies in an individual, keeping in mind the influence of age and gender.
+- Compare and contrast different [[immunodeficiency]] disorders in terms of cause, mechanism, clinical/lab findings, and symptoms.
+- Draw a general classification schema of immunodeficiencies.
+### Viral Immunity
+- Define [[herd immunity]]
+#### HIV Infection
+- Describe the components of the [[HIV]] virion that relate to strategies for diagnosis and treatment of HIV infection.
+- Explain the natural history of [[HIV]] infection in terms of viral replication, [[immunoglobulin|antibody]] production and [[lymphocyte]] counts.
+- Describe the origins, classification, structure and lifecycle of the [[HIV]] virus.
+- Describe the epidemiology of [[HIV]] infection.
+- Draw the temporal levels of [[HIV]] viral load and [[helper T cell|CD4+ T cell]] count overtime during untreated HIV infection.
+- Describe the laboratory tests necessary for [[HIV]] diagnosis and management.
+- Describe the signs and symptoms associated with [[acute retroviral syndrome]].
+- List common infections seen in [[AIDS]] patients based on [[helper T cell|CD4+ T cell]] count and provide an immunological basis for these findings.
+- List the targets of of current anti-retroviral therapy against [[HIV]].
+#### EBV Infection
+- Describe the clinical presentation of primary [[EBV]] infection.
+- Describe the microbiologic characteristics of [[EBV]].
+- Explain [[EBV]] pathogenesis leading to acute infection.
+- Review the differential diagnosis of the [[mononucleosis]] syndrome.
+- Describe the epidemiology and the clinical and diagnostic findings associated with [[mononucleosis]] caused by [[EBV]] infection.
+- Describe the [[EBV]] life cycle, including targeted host cells and cells of latency.
+#### Vaccination
+- Compare [[passive immunization]] to [[active immunization]].
+- Evaluate [[vaccine]]s in relation to formulation and immune response.
+- Describe the role of the [[adjuvant]] in [[vaccine]]s.
+- Discuss the use of [[vaccine]]s in populations with [[immunodeficiency]] or an immunocompromised state.
+- Explain the scientific rationale behind the production of the annual [[influenza]] [[vaccine]].
+- Review [[clonal selection]] in relation to [[immunization]].
+- Discuss [[lymphadenopathy]] in the context of the [[COVID-19]] vaccines (i.e. axillary adenopathy).
+### Hematologic Malignancies
+- Sketch a diagram that distinguishes the major categories of hematopoietic malignancies, listing the defining characteristics for each group.
+- Identify a [[blast cell]], an [[Auer rod]], and a [[Reed-Sternberg cell]], explaining the significance of each.
+- Describe the specific genetic defect associated with
+	- [[chronic myelogenous leukemia]]
+	- [[polycythemia vera]]
+	- [[acute promyelocytic leukemia]]
+	- [[Burkitt lymphoma]].
+- Briefly describe the clinical presentation and approach to treatment for: 
+	- [[chronic myelogenous leukemia]]
+	- [[polycythemia vera]]
+	- [[myelodysplastic syndrome]]
+	- [[acute myeloid leukemia]]
+	- [[acute promyelocytic leukemia]]
+	- [[acute lymphoblastic leukemia]]
+	- [[chronic lymphocytic leukemia]]/[[small lymphocytic lymphoma]]
+	- [[plasma cell myeloma]][[Hodgkin lymphoma]]
+	- [[Burkitt lymphoma]]
+### Tumor Immunity
+- Review the mechanisms by which [[tumor]]s are recognized by the [[immune system]].
+- Describe the role of [[myeloid lineage]] and [[lymphoid lineage]] cells from the innate and adaptive arms of the [[immune system]] in [[Tumor Microenvironment Atlas|antitumor immunity]]
+- Assess [[immunotherapy|immunotherapeutic]] strategies to harness the [[immune system]] for [[cancer]] treatment
+- Review the stages of [[Tumor Microenvironment Atlas|immunoediting]]
+### Clinical Cases/Application
+- Describe the general approach to clinical evaluation of a patient presenting with recurrent infections.
+- Recognize that [[immunoglobulin|antibodies]] conjugated to fluorescent dyes can be used to visualize cells and specific molecules.
+- Discuss the use of monoclonal [[immunoglobulin|antibodies]] for immune diagnostics.
+- Explain the process of [[flow cytometry]]
+- Describe the use of [[flow cytometry]] to immunophenotype cells and aid in diagnosis.
+- Explain the process of the immune diagnostic tool of the [[ELISA]].
+- Describe the use of the [[ELISA]] for immune diagnostics.
+- Explain the process of the immune diagnostic tool of the [[ELISpot]] assay.
+- Describe the use of the [[ELISpot]] assay for immune diagnostics.
+- Utilize the laboratory data to calculate absolute [[helper T cell|CD4+ T cell]] counts and explain the relationship of CD4+ T cell counts and that of viral load to the treatment of [[HIV]].
+- Interpret the [[T-Spot]] and [[Quantiferon]] tests in the context of exposure to or infection with [[Mycobacterium tuberculosis]].
+- Utilize the clinical history and test results to explain the role of [[complement system|complement]] in protection against [[bacteria]]l infection
+- Describe the basics of [[flow cytometry]] for phenotyping peripheral blood immune cells.
+- Explain how [[neutrophil]] [[respiratory burst]] is assessed in the clinical laboratory
+	- [[chronic granulomatous disease]]
+- List important aspects of the patient history to ask when evaluating a patient with suspected [[immunodeficiency]].
+- List important aspects of the physical exam when evaluating a patient with suspected [[immunodeficiency]].
+- List and interpret important laboratory studies when evaluating a patient with suspected [[immunodeficiency]].
+- Develop a treatment strategy for a patient diagnosed with an [[immunodeficiency]] disorder.
+## Anatomy
+### Gross Anatomy
+- Illustrate the routes of arteries supplying major body regions.
+- Illustrate the routes of veins draining major body regions.
+- Trace the flow of blood from the heart to main pulse points in the body: carotid pulse, brachial, radial, femoral, popliteal, dorsalis pedis.
+- Employ anastomoses and retroflow to construct collatoral circulation pathways.
+- Identify and palpate the following key bony features on your anatomical donor: radial styloid process, olecranon, ASIS, med vs lat malleoli, subcostal margin, mastoid process, jugular notch.
+- Identify major tissue types at a gross anatomical level: skin, connective tissue, fat, bone, muscle, tendon, ligament, nerve, artery, vein.
+- Relate differences in the microanatomy of arteries and veins to their gross characteristics.
+- Demonstrate the location of major arteries throughout the body with reference to key anatomical relationships.
+- Use anatomical relationships to locate the following pulses: carotid, brachial, radial, femoral, posterior tibial and dorsalis pedis.
+- Relate the location of the brachial artery to blood pressure measurement using the arm.
+- Demonstrate the location of major superficial and deep veins throughout the body.
+- Describe the macroscopic composition and function of 3 major mechanisms to assist in venous return to the heart: valves, accompanying veins, musculovenous pump.
+- Use anatomical relationships to locate main sites for intravenous access in the body.
+- Relate differences in the composition of vessels to their gross anatomical and sonographic appearance.
+- Recall the location and major function of central and peripheral lymphoid organs.
+- Illustrate the role of the thoracic duct and venous angles in systemic lymphatic drainage and locate the venous angles.
+- Given a circulatory chart, use anastomoses to construct collateral pathways for blood flow around obstructions.
+- Summarize the role and location of major groups of lymph nodes and lymphatic routes in the spread of infection and malignant disease in the following drainage territories: upper limb, lower limb, breast, gonads.
+### Micro-anatomy
+- Identify the microanatomical structures within the [[thymus]]
+- Contrast the three types of lymphoid tissue organizations in terms of their histological composition, morphology, and locations in the body.
+	- [[diffuse lymphoid tissue]]
+	- [[lymphoid nodules]]/[[follicle]]s
+	- [[lymphoid organ]]s
+- Correlate the tissue organization of a typical [[lymph node]] with its function and connection to the blood vasculature.
+- Correlate the tissue organization of a normal [[spleen]] (white pulp, red pulp, open and closed vascular channels) with its unique functions.
+- Correlate the tissue organization, composition, and vascular supply of the [[thymus]] with this organ's unique functions in the immune system.
+- Compare the stromal and parenchymal compositions of the [[lymph node]]s, [[spleen]], and [[thymus]].
+- Identify lymphoid tissues and [[lymphoid organ]]s based on histological characteristics.
+## Ultrasound
+- Describe fundamental concepts of [[ultrasound]] physics and basic ultrasound terminology.
+	- Describe important ultrasound artifacts caused by the interactions between sound waves and tissues.
+	- Describe physical characteristics and typical imaging applications for commonly used ultrasound transducers.
+	- Describe the orientation of the transducer to the patient and to on-screen images.
+	- Explain the importance of ultrasound transmission gel.
+	- Demonstrate the three most common imaging modes: B-mode, M-mode, and Doppler.
+	- Recognize the characteristic appearance of different normal tissue types on ultrasound.
+	- Demonstrate vein compression used to detect deep [[venous thrombosis]].
+## Randomized Controlled Trials
+- Differentiate between [[disease-oriented outcome]]s and [[patient-oriented outcome]]s.
+- Define [[study validity]].
+- Describe characteristics of [[randomized controlled trial]]s (RCTs) such as [[study randomization]], [[study blinding]], [[allocation concealment]], [[intention-to-treat analysis]] (as compared with per-protocol or as-treated analyses), and [[study follow up]], and explain how these characteristics reduce bias.
+- Discuss the strengths and limitations of RCTs.
+- Calculate and apply common expressions of relative risk ([[relative risk ratio]], [[relative risk difference]]) and absolute risk ([[absolute risk difference]], [[number needed to treat]] and [[number needed to harm]]). Explain the circumstances in which they are appropriate to use and how they are interpreted.
+- Explain the relevance of RCT study design to patient care and clinical decision-making.
+## Physical Exam/Clinical
+- Interpret normal and abnormal ranges of vital signs.
+- Describe appropriate imaging modalities and findings for detection of [[thrombus]] with a focus on [[ultrasound]], also including [[CT|Computed Tomography]], [[MRI]] and [[fluoroscopy]]
+- Understand the indications for [[Doppler ultrasound]] to diagnose deep [[venous thrombosis]] and recognize the imaging findings of deep vein thrombosis on ultrasound
+- Compare the different imaging modalities to diagnose [[pulmonary embolism]] and when to use/order them
+- List the imaging modalities to evaluate for active bleeding/[[hemorrhage]], including [[ultrasound]], [[nuclear medicine]], [[Computed Tomography]] and [[angiography]]
+- Describe the utility of using [[nuclear medicine]] in identifying [[tumor]] spread in the [[lymphatic system]]
+- List important aspects of the patient history to ask when evaluating a patient with excessive bleeding or suspected thromboembolism.
+- List important aspects of the physical exam when evaluating a patient with excessive bleeding or suspected thromboembolism.
+- List and interpret important laboratory and/or imaging studies to obtain when evaluating a patient with excessive bleeding or thromboembolism.
